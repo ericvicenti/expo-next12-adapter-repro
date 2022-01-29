@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "expo": "^44.0.5",
-    "next": "9.3.5",
+    "next": "10.x.x",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-native": "0.64.3",
